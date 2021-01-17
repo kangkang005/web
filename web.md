@@ -18,6 +18,7 @@
 ```
 ## shell
 ```
+    https://explainshell.com/
     https://learnxinyminutes.com/docs/bash/
     https://goalkicker.com/BashBook/
     https://guide.bash.academy/
@@ -67,6 +68,21 @@
     http://book.emacs-china.org/
 ```
 
+## javascript
+```
+    https://zh.javascript.info
+    https://www.w3school.com.cn/index.html
+    https://www.w3school.com/
+    https://developer.mozilla.org/en-US/docs/Web
+```
+
+## linux
+### tmux
+```
+    https://learnxinyminutes.com/docs/tmux/
+    http://tmuxcheatsheet.com/
+```
+
 # IC
 ```
     https://hdlbits.01xz.net/wiki/Wire
@@ -102,5 +118,5 @@
 
 ## ip
 ```
-  https://site.ip138.com/raw.githubusercontent.com/
+    https://site.ip138.com/raw.githubusercontent.com/
 ```
