@@ -54,11 +54,16 @@
 
 ## vim
 ```
-    https://learnxinyminutes.com/docs/vimscript/
     https://learnxinyminutes.com/docs/vim/
     http://www.vimgolf.com/
     https://vim-adventures.com/
     https://spacevim.org/quick-start-guide/
+```
+
+## vimscript
+```
+    http://vimcdoc.sourceforge.net/doc/usr_41.html
+    https://learnxinyminutes.com/docs/vimscript/
 ```
 
 ## emacs
